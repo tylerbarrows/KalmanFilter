@@ -3,7 +3,6 @@ Kalman filter applied to a lithium ion battery state of charge application. Code
 
 # Format
 The respository should be downloaded and unzipped. Both /Code/ and /Data/ should be located in the same directory at the same level:
-<pre><p>model/</p> <p>├── code/</p> <p>└── data/</p> </pre>
 <pre>model/
   ├── code/
   └── data/ </pre>
